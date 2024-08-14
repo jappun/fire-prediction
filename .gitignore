@@ -1,0 +1,7 @@
+# ignore datasets
+nbac_1986_to_2022_20230630/
+NFDB_point/
+NFDB_point_large_fires/
+
+# jupyter generated checkpoint
+.ipynb_checkpoints/
